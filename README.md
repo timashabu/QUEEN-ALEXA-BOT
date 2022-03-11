@@ -87,10 +87,7 @@
 
 ```
 #### QR කේතය ලබා ගත් පසු පහල බටනය ඔබලා Bot deploy කරන්න
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template)=https://github.com/timashabu)
-
-
-
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/timashabu)
 ## 👨‍💻Developer
 
 [![M.R_TIMA-](https://github.com/timashabu.png?size=100)](https://www.youtube.com/channel/UCgWqKvXu-LHak14ZnYAMYnw)
