@@ -24,7 +24,7 @@
    </a>    
         
   <p align="center">
-<a href="https://wa.me/94773585511_tima_whatsapp"><img title="Author" src="https://img.shields.io/badge/BOT DEVELOPER-/JulieMwol?color=blue&style=for-the-badge&logo=telegram"></a>
+<a href="https://wa.me/94773585511_tima_whatsapp"><img title="Author"
 </p>
    </a>
 </p>
@@ -87,13 +87,13 @@
 
 ```
 #### QR කේතය ලබා ගත් පසු පහල බටනය ඔබලා Bot deploy කරන්න
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/timashabu)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template)=https://github.com/timashabu)
 
 
 
 ## 👨‍💻Developer
 
-[![M.R_TIMA-TeenuhX](https://github.com/timashabu.png?size=100)](https://www.youtube.com/channel/UCgWqKvXu-LHak14ZnYAMYnw)
+[![M.R_TIMA-](https://github.com/timashabu.png?size=100)](https://www.youtube.com/channel/UCgWqKvXu-LHak14ZnYAMYnw)
 
  ***M.R_TIMA(TIMASHA😈)***
 <a href="https://Wa.me/+94773585511">
